@@ -18,14 +18,14 @@ A simple and interactive web application that allows users to search and view in
 - **JavaScript (ES6)**: For app logic and functionality.
 
 ## Usage
-**Search Pokémon:** Type the name of a Pokémon in the search bar to filter the list.
-**Pagination**: Use the "Next" and "Previous" buttons to navigate through pages of Pokémon.
-**View Details**: Click on any Pokémon to view detailed stats like HP, Attack, Defense, etc.
+- **Search Pokémon:** Type the name of a Pokémon in the search bar to filter the list.
+- **Pagination**: Use the "Next" and "Previous" buttons to navigate through pages of Pokémon.
+- **View Details**: Click on any Pokémon to view detailed stats like HP, Attack, Defense, etc.
 
 ## Acknowledgments
-**PokeAPI**: For providing an open-source API that offers detailed Pokémon data.
-**Tailwind CSS**: For making it easy to create beautiful, responsive designs.
-**React**: For being a powerful library for building dynamic user interfaces.
+- **PokeAPI**: For providing an open-source API that offers detailed Pokémon data.
+- **Tailwind CSS**: For making it easy to create beautiful, responsive designs.
+- **React**: For being a powerful library for building dynamic user interfaces.
 
 
 ## Demo
