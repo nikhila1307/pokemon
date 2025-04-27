@@ -17,55 +17,16 @@ A simple and interactive web application that allows users to search and view in
 - **PokeAPI**: For fetching Pokémon data.
 - **JavaScript (ES6)**: For app logic and functionality.
 
-## Installation
+## Usage
+**Search Pokémon:** Type the name of a Pokémon in the search bar to filter the list.
+**Pagination**: Use the "Next" and "Previous" buttons to navigate through pages of Pokémon.
+**View Details**: Click on any Pokémon to view detailed stats like HP, Attack, Defense, etc.
 
-To run this project locally on your machine, follow these steps:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/pokemon-search-app.git
-cd pokemon-search-app
-2. Install dependencies
-Make sure you have Node.js installed. If not, install it from the official website.
-
-Then, install the necessary dependencies:
-
-npm install
-3. Start the development server
-Run the following command to start the app in development mode:
+## Acknowledgments
+**PokeAPI**: For providing an open-source API that offers detailed Pokémon data.
+**Tailwind CSS**: For making it easy to create beautiful, responsive designs.
+**React**: For being a powerful library for building dynamic user interfaces.
 
 
-npm start
-The app should now be running at http://localhost:3000.
-
-Usage
-Search Pokémon: Type the name of a Pokémon in the search bar to filter the list.
-
-Pagination: Use the "Next" and "Previous" buttons to navigate through pages of Pokémon.
-
-View Details: Click on any Pokémon to view detailed stats like HP, Attack, Defense, etc.
-
-
-
-
-
-Acknowledgments
-PokeAPI: For providing an open-source API that offers detailed Pokémon data.
-
-Tailwind CSS: For making it easy to create beautiful, responsive designs.
-
-React: For being a powerful library for building dynamic user interfaces.
-
-Thanks to all contributors who helped improve the project!
-
-Demo
+## Demo
 You can view a live demo of the application here: https://pokemon-search-card.netlify.app/.
-
-
-
-
-
-
-
-
