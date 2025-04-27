@@ -40,14 +40,14 @@ npm start
 
 The app should now be running at http://localhost:3000.
 
-**Usage**
+## Usage
 Search Pokémon: Type the name of a Pokémon in the search bar to filter the list.
 Pagination: Use the "Next" and "Previous" buttons to navigate through pages of Pokémon.
 View Details: Click on any Pokémon to view detailed stats like HP, Attack, Defense, etc.
 
-**Acknowledgments**
+## Acknowledgments
 **PokeAPI**: For providing an open-source API that offers detailed Pokémon data.
 **Tailwind CSS**: For making it easy to create beautiful, responsive designs.
 **React**: For being a powerful library for building dynamic user interfaces.
 
-Thanks to all contributors who helped improve the project!
+## Thanks to all contributors who helped improve the project!
