@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { PokemonCard } from "./PokemonCard";
 
-export const PokemonDetails = ({ pokemon }) => {
+export const PokemonDetails = ({ pokemon , handleStats }) => {
     const [pokemonStats, setPokemonStats] = useState(null)
     const { name, url } = pokemon;
 
@@ -28,7 +28,7 @@ export const PokemonDetails = ({ pokemon }) => {
         <>
             {(!pokemonStats) ? <p> LOADING.........</p> :
 
-                (<PokemonCard pokemon={pokemonStats} />)
+                (<PokemonCard pokemon={pokemonStats} handleStats = {handleStats}/>)
             }
         </>
     )
